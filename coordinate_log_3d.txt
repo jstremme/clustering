@@ -1,0 +1,17 @@
+coordinate: [-1.3812965  -0.77961154 -0.55351567], label: 0, color: g, marker: _
+coordinate: [ 0.30502598  0.93789121 -1.54055411], label: 1, color: r, marker: +
+coordinate: [-1.17050619 -0.83686164 -0.22450286], label: 0, color: g, marker: _
+coordinate: [ 1.56976784  0.93789121  0.76253558], label: 1, color: r, marker: +
+coordinate: [-1.3812965  -1.18036219  1.09154839], label: 0, color: g, marker: +
+coordinate: [-0.74892557 -0.26436072 -0.22450286], label: 0, color: g, marker: _
+coordinate: [-0.74892557  0.3081402   0.76253558], label: 0, color: g, marker: +
+coordinate: [ 0.30502598  0.93789121 -1.2115413 ], label: 1, color: r, marker: +
+coordinate: [-0.11655464 -1.18036219  0.10450995], label: 0, color: g, marker: _
+coordinate: [-0.74892557 -0.83686164 -0.6851208 ], label: 0, color: g, marker: _
+coordinate: [ 0.93739691 -0.83686164  1.74957401], label: 0, color: g, marker: +
+coordinate: [ 1.14818722  0.93789121  0.76253558], label: 1, color: r, marker: +
+coordinate: [-0.95971588 -1.18036219  0.10450995], label: 0, color: g, marker: _
+coordinate: [ 0.51581629 -0.83686164 -0.88252848], label: 0, color: g, marker: _
+coordinate: [ 0.22070985  0.6230157  -0.22450286], label: 1, color: r, marker: _
+coordinate: [ 0.26286792  1.45314204 -1.54055411], label: 1, color: r, marker: +
+coordinate: [ 1.99134846  1.79664259  1.74957401], label: 1, color: r, marker: +
