@@ -1,0 +1,455 @@
+coordinate: [-1.70485306  0.37682176  0.07230879], label: 2, color: b, marker: +
+coordinate: [-2.82080722 -0.81245157 -0.63387857], label: 2, color: b, marker: +
+coordinate: [-2.47169793  0.43408154  0.05182806], label: 2, color: b, marker: +
+coordinate: [ 0.29818106 -0.47540955 -0.82417139], label: 0, color: g, marker: +
+coordinate: [-0.288148    0.35480508 -0.61083899], label: 0, color: g, marker: +
+coordinate: [5.26406081 0.37940403 0.74953474], label: 3, color: y, marker: _
+coordinate: [-1.16523883 -0.61432395 -0.84838473], label: 2, color: b, marker: +
+coordinate: [-1.96460806 -0.24293175 -0.16129646], label: 2, color: b, marker: +
+coordinate: [-1.94264013 -0.16238261  0.10116453], label: 2, color: b, marker: +
+coordinate: [ 2.01088959 -0.48480719 -1.82301019], label: 0, color: g, marker: _
+coordinate: [ 4.92774627  0.54021174 -0.5625817 ], label: 3, color: y, marker: _
+coordinate: [ 2.30566126  2.05133901 -0.39317474], label: 0, color: g, marker: _
+coordinate: [-1.4310602   0.69705122  0.10833321], label: 2, color: b, marker: +
+coordinate: [ 2.01805839  0.06616395 -1.14682189], label: 0, color: g, marker: _
+coordinate: [ 2.36969567  0.79535787 -0.52376969], label: 0, color: g, marker: _
+coordinate: [-1.64564919  0.20204096  1.17514318], label: 2, color: b, marker: +
+coordinate: [-3.33676698 -0.62003313 -0.16657678], label: 2, color: b, marker: +
+coordinate: [-1.04267614 -0.91800522 -0.0159833 ], label: 2, color: b, marker: +
+coordinate: [-4.43623026 -0.65376792  1.0919098 ], label: 2, color: b, marker: +
+coordinate: [ 5.46863701 -0.48154604 -0.40367139], label: 3, color: y, marker: _
+coordinate: [ 6.55139703 -1.66084352 -1.66678079], label: 3, color: y, marker: _
+coordinate: [-2.72870945  0.13459555 -0.0516975 ], label: 2, color: b, marker: +
+coordinate: [-2.47217465 -1.29334458 -0.18382084], label: 2, color: b, marker: +
+coordinate: [ 4.13167145 -0.78813637  0.47333052], label: 3, color: y, marker: _
+coordinate: [-0.21875831 -0.46186008 -0.60948841], label: 0, color: g, marker: +
+coordinate: [ 3.33603409  1.04255133 -0.94308133], label: 3, color: y, marker: _
+coordinate: [-3.14804723  0.22967777  1.3048467 ], label: 2, color: b, marker: +
+coordinate: [ 0.0221137  -0.65683084 -1.32587685], label: 0, color: g, marker: +
+coordinate: [0.18540635 0.11223746 0.09676204], label: 0, color: g, marker: _
+coordinate: [-1.53060079 -0.96203728 -0.66239136], label: 2, color: b, marker: +
+coordinate: [-2.43307518  0.85094988 -0.007907  ], label: 2, color: b, marker: +
+coordinate: [ 3.00167495  2.05171604 -0.29388657], label: 0, color: g, marker: _
+coordinate: [ 1.81241655 -1.08631082 -0.08274663], label: 0, color: g, marker: _
+coordinate: [-3.34963917 -1.08559943  0.04082987], label: 2, color: b, marker: +
+coordinate: [ 8.35615242 -2.94467985  0.67254812], label: 1, color: r, marker: _
+coordinate: [ 4.42763248 -0.1444087  -1.91111673], label: 3, color: y, marker: _
+coordinate: [-2.20154887 -0.05752261 -0.21690412], label: 2, color: b, marker: +
+coordinate: [-4.51124038 -0.68376697  1.3526705 ], label: 2, color: b, marker: +
+coordinate: [-1.73442685 -0.5598912  -0.44456425], label: 2, color: b, marker: +
+coordinate: [-0.89458523 -1.08645677 -0.3634282 ], label: 2, color: b, marker: +
+coordinate: [ 3.94944696  0.05023066 -0.87738876], label: 3, color: y, marker: _
+coordinate: [ 3.01773019  1.65493439 -0.95709472], label: 0, color: g, marker: _
+coordinate: [ 3.94184293 -1.68130337 -1.25486829], label: 3, color: y, marker: _
+coordinate: [-3.19945967 -0.96462793  0.25607394], label: 2, color: b, marker: +
+coordinate: [7.35861359 1.38226047 2.02511629], label: 1, color: r, marker: _
+coordinate: [-0.90865808  1.12587453  0.7199904 ], label: 0, color: g, marker: +
+coordinate: [-3.32135744 -0.5876394   0.5523375 ], label: 2, color: b, marker: +
+coordinate: [-1.99825216 -0.98767672  0.94479678], label: 2, color: b, marker: +
+coordinate: [-1.80620968 -1.18518484  1.30377204], label: 2, color: b, marker: _
+coordinate: [-1.70837889  0.17647736 -0.15835581], label: 2, color: b, marker: +
+coordinate: [-2.46532282 -1.18346221 -0.67303231], label: 2, color: b, marker: +
+coordinate: [-2.25027456  0.05912596 -0.21619159], label: 2, color: b, marker: +
+coordinate: [-3.50568061 -0.48300813  0.79308118], label: 2, color: b, marker: +
+coordinate: [-3.38492963 -0.46001432  1.14866293], label: 2, color: b, marker: +
+coordinate: [-2.36177648 -0.61313332 -0.60396556], label: 2, color: b, marker: +
+coordinate: [-1.92454892 -0.2377498  -0.29438277], label: 2, color: b, marker: +
+coordinate: [-3.45208517  0.17224717  0.55062452], label: 2, color: b, marker: +
+coordinate: [-1.19546301 -0.35213659 -0.54565289], label: 2, color: b, marker: +
+coordinate: [ 1.9046425   0.29688564 -0.33615539], label: 0, color: g, marker: _
+coordinate: [ 2.98391006  2.24222449 -0.24119548], label: 0, color: g, marker: _
+coordinate: [-3.42267175 -0.75827637 -0.26703006], label: 2, color: b, marker: +
+coordinate: [-4.53598293 -0.5635234   0.69493814], label: 2, color: b, marker: +
+coordinate: [-3.14741047 -0.1825487   0.04812861], label: 2, color: b, marker: +
+coordinate: [-2.70800693 -0.20370604  0.81369006], label: 2, color: b, marker: +
+coordinate: [3.07168124 1.05488201 0.05834173], label: 3, color: y, marker: _
+coordinate: [3.16969068 1.07663534 0.53772519], label: 3, color: y, marker: _
+coordinate: [ 0.58197178 -1.89752082 -1.09954773], label: 0, color: g, marker: _
+coordinate: [ 0.09923529 -0.60476904 -1.22025645], label: 0, color: g, marker: +
+coordinate: [ 5.37035331 -0.96242233  0.44569083], label: 3, color: y, marker: _
+coordinate: [-2.5076667  -0.44974956 -0.33350315], label: 2, color: b, marker: +
+coordinate: [-0.94300579 -0.93047423 -0.6839268 ], label: 2, color: b, marker: +
+coordinate: [1.5606791  2.75518491 0.52501314], label: 0, color: g, marker: +
+coordinate: [-2.40467588  0.167825   -0.17527713], label: 2, color: b, marker: +
+coordinate: [ 4.53883521 -1.20458213 -0.02251896], label: 3, color: y, marker: _
+coordinate: [2.29534818 6.30410551 0.58447832], label: 0, color: g, marker: _
+coordinate: [-1.32056679 -0.11318802  0.29447028], label: 2, color: b, marker: +
+coordinate: [ 0.29689652 -1.09139505 -0.91646717], label: 0, color: g, marker: +
+coordinate: [-1.57572234 -0.11195028  0.6368647 ], label: 2, color: b, marker: +
+coordinate: [-1.37476367 -0.9021045  -0.18529325], label: 2, color: b, marker: +
+coordinate: [ 6.3236318   0.28041734 -0.06511809], label: 3, color: y, marker: _
+coordinate: [ 1.0188477   0.79507389 -0.19861541], label: 0, color: g, marker: _
+coordinate: [-3.21073294 -0.18654099  1.7240577 ], label: 2, color: b, marker: +
+coordinate: [ 2.05847558 -0.06862016 -1.38225359], label: 0, color: g, marker: _
+coordinate: [ 2.04977045  3.14671142 -0.66041945], label: 0, color: g, marker: _
+coordinate: [-2.39938444 -0.69963471  0.49370591], label: 2, color: b, marker: +
+coordinate: [-2.39243154  0.08863927 -0.14203071], label: 2, color: b, marker: +
+coordinate: [-1.54408807 -0.64154357 -0.56258096], label: 2, color: b, marker: +
+coordinate: [-2.74412341 -0.29329316 -0.16422295], label: 2, color: b, marker: +
+coordinate: [-1.87096833 -0.1334521  -0.18321716], label: 2, color: b, marker: +
+coordinate: [ 2.08041065  1.60874354 -0.02829703], label: 0, color: g, marker: _
+coordinate: [ 2.12684834  2.41572873 -0.78581541], label: 0, color: g, marker: _
+coordinate: [-3.82164962 -0.66842187  0.19188268], label: 2, color: b, marker: +
+coordinate: [ 4.44427679 -0.7204378  -0.94284828], label: 3, color: y, marker: _
+coordinate: [-1.32154466 -1.62997635 -0.63349384], label: 2, color: b, marker: +
+coordinate: [1.84002174 4.97079059 1.29524152], label: 0, color: g, marker: _
+coordinate: [-2.89835878  0.54317608  1.77946173], label: 2, color: b, marker: +
+coordinate: [-1.23243241 -0.57862193 -0.1844853 ], label: 2, color: b, marker: +
+coordinate: [ 0.11881707  0.38303486 -1.15047986], label: 0, color: g, marker: _
+coordinate: [-3.55435359 -0.08674852  0.4416784 ], label: 2, color: b, marker: +
+coordinate: [-1.7374762   0.36322168 -0.56171782], label: 2, color: b, marker: +
+coordinate: [ 3.33855323 -1.19052779  0.86624547], label: 3, color: y, marker: _
+coordinate: [ 1.37769465 -0.20167258 -0.52111348], label: 0, color: g, marker: _
+coordinate: [-2.12936351 -1.65051696  0.04943588], label: 2, color: b, marker: +
+coordinate: [-3.11354184  0.30952505  0.96526881], label: 2, color: b, marker: +
+coordinate: [-1.09610052 -0.63421526  0.29438908], label: 2, color: b, marker: +
+coordinate: [-0.81299779 -0.02149457  0.32272939], label: 2, color: b, marker: +
+coordinate: [0.85527555 5.60028721 0.38290227], label: 0, color: g, marker: _
+coordinate: [-3.29872841 -0.11475411  0.04351643], label: 2, color: b, marker: +
+coordinate: [-1.95023632 -1.1220432  -0.69459824], label: 2, color: b, marker: +
+coordinate: [ 1.23483632 -0.02746784 -0.77265179], label: 0, color: g, marker: _
+coordinate: [-0.97269639  0.79999666 -0.18403761], label: 2, color: b, marker: +
+coordinate: [ 1.48184918 -0.17631745 -0.50023168], label: 0, color: g, marker: _
+coordinate: [-2.13220962 -1.01497439 -0.35131581], label: 2, color: b, marker: +
+coordinate: [-2.69293232  0.24871856 -0.05004388], label: 2, color: b, marker: +
+coordinate: [ 3.86735361 -0.91973248  0.35733132], label: 3, color: y, marker: _
+coordinate: [-1.49660775  0.17048705 -0.40279918], label: 2, color: b, marker: +
+coordinate: [-3.57635675 -1.1577285   0.5134772 ], label: 2, color: b, marker: +
+coordinate: [0.54674559 1.40072451 0.37191686], label: 0, color: g, marker: _
+coordinate: [-1.32600369  0.50573465  0.03331609], label: 2, color: b, marker: +
+coordinate: [-1.00769595  0.6748769   0.09535825], label: 2, color: b, marker: +
+coordinate: [ 5.65081142 -2.21055869 -1.3020967 ], label: 3, color: y, marker: _
+coordinate: [-2.0097257  -0.83244673 -0.80722424], label: 2, color: b, marker: +
+coordinate: [-3.273308    1.2454949   0.55772422], label: 2, color: b, marker: +
+coordinate: [-0.15747647  5.41209613  1.90795357], label: 0, color: g, marker: +
+coordinate: [ 3.00265492 -1.06336611 -0.53567885], label: 3, color: y, marker: _
+coordinate: [ 1.58730918 -1.63897211 -0.61222975], label: 0, color: g, marker: _
+coordinate: [-2.59513238 -1.07229116  0.47063387], label: 2, color: b, marker: +
+coordinate: [-2.46886735  1.88980116  0.58178711], label: 2, color: b, marker: +
+coordinate: [-1.36214634 -0.56654635  0.65274475], label: 2, color: b, marker: +
+coordinate: [ 4.94537098 -1.05750975 -0.30592611], label: 3, color: y, marker: _
+coordinate: [ 2.14047574  2.42667246 -0.25279699], label: 0, color: g, marker: _
+coordinate: [-2.49096851  0.12327479 -0.10666326], label: 2, color: b, marker: +
+coordinate: [-2.53003114  0.08354335  0.34306657], label: 2, color: b, marker: +
+coordinate: [ 2.30896421  0.92889647 -0.25137714], label: 0, color: g, marker: _
+coordinate: [ 3.71953769 -0.48712025 -0.37340309], label: 3, color: y, marker: _
+coordinate: [-2.29212777 -0.0478498   0.49245864], label: 2, color: b, marker: +
+coordinate: [-1.85613608 -0.21945216 -0.45520181], label: 2, color: b, marker: +
+coordinate: [-2.20817915 -0.14295866  0.37491822], label: 2, color: b, marker: +
+coordinate: [ 1.37481149 -1.63981637 -0.15065001], label: 0, color: g, marker: _
+coordinate: [-0.84722675 -0.54216162 -0.94951098], label: 2, color: b, marker: +
+coordinate: [-2.44681424 -0.28969093  0.33892057], label: 2, color: b, marker: +
+coordinate: [ 0.2457721   0.68437084 -0.46715532], label: 0, color: g, marker: _
+coordinate: [-0.70154683  3.10240668  0.49398552], label: 0, color: g, marker: +
+coordinate: [-1.78639987  0.68339802  0.15926007], label: 2, color: b, marker: +
+coordinate: [-2.25076601 -0.06527534  0.66520841], label: 2, color: b, marker: +
+coordinate: [-2.96154296 -0.29221218 -0.3570807 ], label: 2, color: b, marker: +
+coordinate: [-0.13970936  0.1098149  -0.8921709 ], label: 0, color: g, marker: +
+coordinate: [-0.32524424  1.06232741 -0.43564092], label: 0, color: g, marker: +
+coordinate: [ 3.10314561 -0.54434656 -1.1430899 ], label: 3, color: y, marker: _
+coordinate: [-2.13441455 -0.10693539 -0.00344339], label: 2, color: b, marker: +
+coordinate: [ 3.80005171  0.12595378 -1.46794582], label: 3, color: y, marker: _
+coordinate: [-2.19237914 -0.0030767   0.5760004 ], label: 2, color: b, marker: +
+coordinate: [-3.20750807 -0.94674599  1.2888532 ], label: 2, color: b, marker: +
+coordinate: [-3.19839936 -0.88780447  0.22400308], label: 2, color: b, marker: +
+coordinate: [-0.09545415  0.70694734 -0.46231424], label: 0, color: g, marker: _
+coordinate: [ 0.1544574   0.34993014 -0.6040969 ], label: 0, color: g, marker: +
+coordinate: [-2.3281284  -0.84483828  0.29349639], label: 2, color: b, marker: +
+coordinate: [4.9842572  0.18884031 1.66547653], label: 3, color: y, marker: _
+coordinate: [-0.15216263 -0.43616404 -0.08497178], label: 0, color: g, marker: +
+coordinate: [-2.4714192   0.04771809  0.37929511], label: 2, color: b, marker: +
+coordinate: [ 0.37426828  0.33470933 -0.84309157], label: 0, color: g, marker: _
+coordinate: [ 4.13483562  0.16255085 -1.20351693], label: 3, color: y, marker: _
+coordinate: [-1.44525271 -0.89979778 -0.16616164], label: 2, color: b, marker: +
+coordinate: [-1.54264252 -1.20507813 -0.62732923], label: 2, color: b, marker: +
+coordinate: [ 2.36809518  0.13425545 -1.06438431], label: 0, color: g, marker: _
+coordinate: [-0.2017261  -0.19398454 -1.08390463], label: 0, color: g, marker: +
+coordinate: [-0.20176223  0.75098554 -0.64513733], label: 0, color: g, marker: +
+coordinate: [ 4.59107458  0.20310121 -0.45484015], label: 3, color: y, marker: _
+coordinate: [ 0.28672117  2.39721208 -0.20495753], label: 0, color: g, marker: +
+coordinate: [ 4.02265068 -2.01342355  0.89928621], label: 3, color: y, marker: _
+coordinate: [ 3.84052359 -1.98499084 -0.86446075], label: 3, color: y, marker: _
+coordinate: [-1.56851572  0.01519558  0.34954628], label: 2, color: b, marker: +
+coordinate: [-2.25114697  1.45319586 -0.02276115], label: 2, color: b, marker: +
+coordinate: [-1.30010691 -0.13366095 -0.6578871 ], label: 2, color: b, marker: +
+coordinate: [-2.1427374   0.40228943  1.00774568], label: 2, color: b, marker: +
+coordinate: [-1.2012668   0.51978242 -0.86637214], label: 2, color: b, marker: +
+coordinate: [-1.59860838  1.10435595  0.21965278], label: 2, color: b, marker: +
+coordinate: [-2.59533929 -0.79186906 -0.20679295], label: 2, color: b, marker: +
+coordinate: [ 2.32942513  2.00678095 -0.65829169], label: 0, color: g, marker: _
+coordinate: [-2.56274114 -1.37594679  0.32008235], label: 2, color: b, marker: +
+coordinate: [6.23948662 1.53297544 0.74916398], label: 3, color: y, marker: _
+coordinate: [ 8.7461899  -1.66517988 -0.07518657], label: 1, color: r, marker: _
+coordinate: [-4.55129752 -0.58496095  1.36581204], label: 2, color: b, marker: +
+coordinate: [-2.21402283 -0.78511783 -0.33390349], label: 2, color: b, marker: +
+coordinate: [-1.39600161 -0.01650419 -0.53296288], label: 2, color: b, marker: +
+coordinate: [ 2.95588169  4.52011774 -0.18502107], label: 0, color: g, marker: _
+coordinate: [ 3.20777963 -0.57565658 -0.43176722], label: 3, color: y, marker: _
+coordinate: [-3.12881889 -0.55516945  0.19904364], label: 2, color: b, marker: +
+coordinate: [ 4.32848241 -1.74679325 -0.14104717], label: 3, color: y, marker: _
+coordinate: [-1.8925576   0.93068352 -0.0593071 ], label: 2, color: b, marker: +
+coordinate: [-0.67126668  1.42598033 -0.18170442], label: 0, color: g, marker: +
+coordinate: [2.16862492 1.60888683 0.16585859], label: 0, color: g, marker: _
+coordinate: [-3.63177843 -0.70014249  0.73535802], label: 2, color: b, marker: +
+coordinate: [-2.21060892 -0.30932482 -0.09570791], label: 2, color: b, marker: +
+coordinate: [-2.19898192 -0.4016262  -0.15869338], label: 2, color: b, marker: +
+coordinate: [-2.01276367  0.06124088 -0.30986872], label: 2, color: b, marker: +
+coordinate: [-0.3610708   1.24438139  0.05594274], label: 0, color: g, marker: +
+coordinate: [-2.70493804 -1.15136879  0.28307397], label: 2, color: b, marker: +
+coordinate: [-4.07428568  0.24488073  0.53932778], label: 2, color: b, marker: +
+coordinate: [ 4.51949751 -1.606979    0.03096365], label: 3, color: y, marker: _
+coordinate: [-1.88801899  1.95185583  1.00833956], label: 2, color: b, marker: +
+coordinate: [-1.91575618 -1.25731102  1.06594511], label: 2, color: b, marker: +
+coordinate: [ 2.24475062 -0.7919326  -0.25864726], label: 3, color: y, marker: _
+coordinate: [5.32082387 0.11673276 0.02097521], label: 3, color: y, marker: _
+coordinate: [7.23910272 0.4513452  0.7527138 ], label: 1, color: r, marker: _
+coordinate: [ 7.66386071 -1.32042989  0.87536374], label: 1, color: r, marker: _
+coordinate: [-3.06226592  0.24694679  0.4689363 ], label: 2, color: b, marker: +
+coordinate: [ 5.53180924 -0.85650245 -0.98381759], label: 3, color: y, marker: _
+coordinate: [-3.49615408 -0.33304178  0.69125001], label: 2, color: b, marker: +
+coordinate: [-2.7398533  -1.75323666  0.47271429], label: 2, color: b, marker: +
+coordinate: [-1.49941034  0.18581747 -0.54023637], label: 2, color: b, marker: +
+coordinate: [0.64112389 1.08088997 0.42469892], label: 0, color: g, marker: _
+coordinate: [-1.76751843 -0.02087133 -0.2848065 ], label: 2, color: b, marker: +
+coordinate: [ 0.10598161  1.19096962 -0.463985  ], label: 0, color: g, marker: _
+coordinate: [-1.82469049 -1.51439309 -0.27063978], label: 2, color: b, marker: +
+coordinate: [-2.00143269 -0.28104844 -0.37295256], label: 2, color: b, marker: +
+coordinate: [-2.87296744 -0.48762489 -0.3062861 ], label: 2, color: b, marker: +
+coordinate: [ 0.64711059  1.67558099 -0.31808804], label: 0, color: g, marker: _
+coordinate: [-1.44961032 -0.66242848 -0.17103578], label: 2, color: b, marker: +
+coordinate: [-1.62637601 -0.39296031 -0.82343774], label: 2, color: b, marker: +
+coordinate: [-2.57488989 -0.53730281  0.7952564 ], label: 2, color: b, marker: +
+coordinate: [-1.8998935   0.35915717  0.37096961], label: 2, color: b, marker: +
+coordinate: [ 4.6988164  -0.52645121  0.44471033], label: 3, color: y, marker: _
+coordinate: [-1.75875639 -0.28171823  0.09901578], label: 2, color: b, marker: +
+coordinate: [-1.23130004  0.93711854 -0.10088529], label: 2, color: b, marker: +
+coordinate: [5.38967514 1.4449097  3.3674116 ], label: 3, color: y, marker: _
+coordinate: [2.1547509  1.69981021 0.6040191 ], label: 0, color: g, marker: _
+coordinate: [-1.51572273  0.85893391  0.29190917], label: 2, color: b, marker: +
+coordinate: [ 5.14319272 -1.52125287 -0.49927204], label: 3, color: y, marker: _
+coordinate: [-3.66194381 -0.56492783  0.42636681], label: 2, color: b, marker: +
+coordinate: [-3.00370457 -0.74239301  0.20808844], label: 2, color: b, marker: +
+coordinate: [-3.28896407  0.60227924  1.18471164], label: 2, color: b, marker: +
+coordinate: [-0.13435418  1.88366169  0.63320526], label: 0, color: g, marker: +
+coordinate: [ 8.90591379 -1.6785693  -0.54203877], label: 1, color: r, marker: _
+coordinate: [ 5.27958032 -0.01409006 -0.81254743], label: 3, color: y, marker: _
+coordinate: [-2.96136807  0.7709667   0.05450183], label: 2, color: b, marker: +
+coordinate: [-1.20827694 -1.02178701 -0.90031299], label: 2, color: b, marker: +
+coordinate: [-3.04798494 -0.4202762   0.70059603], label: 2, color: b, marker: +
+coordinate: [-2.43724941 -0.5190729  -0.31853975], label: 2, color: b, marker: +
+coordinate: [ 0.20632944 -0.30181178 -0.83917364], label: 0, color: g, marker: _
+coordinate: [ 2.67805595 -1.23197128  0.63577638], label: 3, color: y, marker: _
+coordinate: [-0.30183141  0.03714182 -0.41876616], label: 0, color: g, marker: +
+coordinate: [-3.15112979  0.04187474  0.17432591], label: 2, color: b, marker: +
+coordinate: [ 3.02663655  0.15237316 -0.5777827 ], label: 3, color: y, marker: _
+coordinate: [ 0.25694476  0.63884164 -0.33027224], label: 0, color: g, marker: +
+coordinate: [-2.01427496 -0.2524785  -0.57091513], label: 2, color: b, marker: +
+coordinate: [-2.19326725  0.13087659  0.13532822], label: 2, color: b, marker: +
+coordinate: [7.46287456 1.88282145 1.10867841], label: 1, color: r, marker: _
+coordinate: [ 0.00202146  0.65567347 -0.65610995], label: 0, color: g, marker: +
+coordinate: [-1.06125254  0.57396753  0.31100455], label: 2, color: b, marker: +
+coordinate: [0.8488771  2.9817925  0.22210617], label: 0, color: g, marker: _
+coordinate: [-1.30121507  0.45610523 -0.55603013], label: 2, color: b, marker: +
+coordinate: [-2.78720334 -0.9322678  -0.41794806], label: 2, color: b, marker: +
+coordinate: [-3.60378534 -0.6113588   0.1804677 ], label: 2, color: b, marker: +
+coordinate: [-2.05673225 -0.41360008 -0.3422891 ], label: 2, color: b, marker: +
+coordinate: [-1.66170907 -0.14091494 -0.24215019], label: 2, color: b, marker: +
+coordinate: [-0.7631179   0.08968135 -0.27151742], label: 2, color: b, marker: +
+coordinate: [-2.00893292 -0.21923193 -0.48328553], label: 2, color: b, marker: +
+coordinate: [-3.25559956 -0.98442847 -0.0828865 ], label: 2, color: b, marker: +
+coordinate: [-2.82240294 -1.51077925 -0.63319622], label: 2, color: b, marker: +
+coordinate: [11.29465241 -0.65903074 -0.57942027], label: 1, color: r, marker: _
+coordinate: [-1.36653698  0.26662942 -0.43338507], label: 2, color: b, marker: +
+coordinate: [-2.26302232  0.79627707 -0.02404843], label: 2, color: b, marker: +
+coordinate: [-2.64673151 -1.61703045  0.07429482], label: 2, color: b, marker: +
+coordinate: [-0.18587192  0.23933323 -0.41104064], label: 0, color: g, marker: +
+coordinate: [-0.20632587 -0.58948019  0.14020986], label: 0, color: g, marker: _
+coordinate: [-1.74786526 -0.59159746 -0.79083149], label: 2, color: b, marker: +
+coordinate: [-2.67093572  1.09438169  0.39653301], label: 2, color: b, marker: +
+coordinate: [0.84591092 0.48756159 0.5457145 ], label: 0, color: g, marker: +
+coordinate: [-1.69600738 -0.1814854  -0.35452489], label: 2, color: b, marker: +
+coordinate: [-2.28291981  0.45657428  0.01584692], label: 2, color: b, marker: +
+coordinate: [-2.60454339 -0.29103167  0.23628891], label: 2, color: b, marker: +
+coordinate: [ 1.46112735 -1.48839135 -1.15510209], label: 0, color: g, marker: _
+coordinate: [ 1.65911588 -0.71329425 -0.03946549], label: 0, color: g, marker: _
+coordinate: [-2.89182217 -0.19440963  0.24753268], label: 2, color: b, marker: +
+coordinate: [-2.98954296 -0.50648788  0.08963406], label: 2, color: b, marker: +
+coordinate: [0.63179937 0.41533557 0.63289469], label: 0, color: g, marker: _
+coordinate: [-1.15739268  1.07987962 -0.21988151], label: 2, color: b, marker: +
+coordinate: [ 0.41011155 -0.48182142 -0.38569587], label: 0, color: g, marker: _
+coordinate: [-1.71564792 -1.02406274  0.27400563], label: 2, color: b, marker: +
+coordinate: [-2.09368036  0.9913515   0.63754219], label: 2, color: b, marker: +
+coordinate: [-1.14877671 -0.19954026 -0.62812735], label: 2, color: b, marker: _
+coordinate: [ 7.56852769 -3.71585769  0.92154583], label: 1, color: r, marker: _
+coordinate: [ 7.88949889  1.12102662 -1.15215549], label: 1, color: r, marker: _
+coordinate: [ 1.48806631  0.90260296 -0.68106678], label: 0, color: g, marker: _
+coordinate: [3.68604803 1.00779563 0.39525637], label: 3, color: y, marker: _
+coordinate: [-2.3772523   0.08284802  0.15384481], label: 2, color: b, marker: +
+coordinate: [ 0.48299929  0.18878029 -0.48019723], label: 0, color: g, marker: _
+coordinate: [-2.68540277 -0.06863542  0.00529815], label: 2, color: b, marker: +
+coordinate: [ 2.77513607 -0.31109588 -1.13168195], label: 3, color: y, marker: _
+coordinate: [ 0.28424974  1.71906535 -0.38087947], label: 0, color: g, marker: _
+coordinate: [-2.34289098 -1.13017091  0.32493012], label: 2, color: b, marker: +
+coordinate: [ 4.0659752  -1.81367628 -0.15195592], label: 3, color: y, marker: _
+coordinate: [-3.42880768 -1.28708093  0.34912432], label: 2, color: b, marker: +
+coordinate: [-0.90098405 -1.0052496  -0.81032026], label: 2, color: b, marker: +
+coordinate: [-1.67803293  1.21404262 -0.33650601], label: 2, color: b, marker: +
+coordinate: [-0.34131029  0.18550487 -0.10284768], label: 0, color: g, marker: +
+coordinate: [0.66038093 2.63153333 0.39005341], label: 0, color: g, marker: _
+coordinate: [ 6.92154289 -1.88483774  1.36378372], label: 1, color: r, marker: _
+coordinate: [ 3.44814883 -1.92971224 -0.91812007], label: 3, color: y, marker: _
+coordinate: [ 5.70219978 -0.30040991  0.12552203], label: 3, color: y, marker: _
+coordinate: [-2.07006771 -0.148323   -0.05862358], label: 2, color: b, marker: +
+coordinate: [-2.15900506 -0.43915174  0.34903404], label: 2, color: b, marker: +
+coordinate: [ 2.8609024   0.09609383 -0.87391258], label: 3, color: y, marker: _
+coordinate: [-2.17252165 -0.07833886  0.01190936], label: 2, color: b, marker: +
+coordinate: [-2.33558729 -1.13977654 -0.12265547], label: 2, color: b, marker: +
+coordinate: [-1.88302789 -0.20812201  0.41180381], label: 2, color: b, marker: +
+coordinate: [-1.58634049  0.9333019   0.25343192], label: 2, color: b, marker: +
+coordinate: [-0.94504768  0.40273057 -0.13754304], label: 2, color: b, marker: +
+coordinate: [-2.8072994  -1.45066207 -0.16877702], label: 2, color: b, marker: +
+coordinate: [-2.38327076 -1.7698252   0.11747482], label: 2, color: b, marker: +
+coordinate: [-1.89797773  0.00842509 -0.63596375], label: 2, color: b, marker: +
+coordinate: [-2.74368395 -0.51636235  0.15102472], label: 2, color: b, marker: +
+coordinate: [-1.0590729  -0.01085923 -0.53260691], label: 2, color: b, marker: +
+coordinate: [-3.64795565 -0.16058173  0.28802787], label: 2, color: b, marker: +
+coordinate: [-1.51809411 -1.5575151   1.34305431], label: 2, color: b, marker: +
+coordinate: [ 0.50785598  1.40124427 -0.62954848], label: 0, color: g, marker: _
+coordinate: [-0.93783694 -0.75448402 -1.15570095], label: 2, color: b, marker: +
+coordinate: [-0.09272819 -0.30346406 -0.07819545], label: 0, color: g, marker: +
+coordinate: [ 0.37007819  1.00568858 -0.0141228 ], label: 0, color: g, marker: _
+coordinate: [-1.21796668  0.31576839  0.41573809], label: 2, color: b, marker: +
+coordinate: [-1.44298094 -0.10732282  0.18158608], label: 2, color: b, marker: +
+coordinate: [ 3.46802966 -0.30376974  0.91550722], label: 3, color: y, marker: _
+coordinate: [-3.79414644  0.05525464  1.1844165 ], label: 2, color: b, marker: +
+coordinate: [-3.55629908 -0.39787523  0.55242312], label: 2, color: b, marker: +
+coordinate: [2.00132737 4.59054953 0.09745984], label: 0, color: g, marker: _
+coordinate: [ 4.61536884  0.63970099 -0.6449585 ], label: 3, color: y, marker: _
+coordinate: [1.13671715 2.93491765 0.22068348], label: 0, color: g, marker: _
+coordinate: [-2.21980353 -1.43474997 -1.11894674], label: 2, color: b, marker: +
+coordinate: [ 4.01569431 -0.55938181 -1.18867934], label: 3, color: y, marker: _
+coordinate: [-2.60355164 -0.84586859  0.97953677], label: 2, color: b, marker: +
+coordinate: [-0.1070931  -0.17126989 -0.0770609 ], label: 0, color: g, marker: _
+coordinate: [ 4.93933527 -0.92454534 -1.08519225], label: 3, color: y, marker: _
+coordinate: [ 4.47291757  0.43137708 -1.13795999], label: 3, color: y, marker: _
+coordinate: [ 4.24900964 -0.25850812 -0.5494888 ], label: 3, color: y, marker: _
+coordinate: [-1.39398739 -0.85077642 -0.74842104], label: 2, color: b, marker: +
+coordinate: [-2.20593205  0.15724854 -0.58298529], label: 2, color: b, marker: +
+coordinate: [-3.14066727 -0.04394457  0.47899023], label: 2, color: b, marker: +
+coordinate: [-2.06638975 -0.73685114  0.6786614 ], label: 2, color: b, marker: +
+coordinate: [-2.81525083 -0.56837138 -0.17419417], label: 2, color: b, marker: +
+coordinate: [ 0.1366762  -0.08814436 -1.38075774], label: 0, color: g, marker: +
+coordinate: [-0.00924111  2.3608501   0.56906899], label: 0, color: g, marker: _
+coordinate: [-1.88610565 -0.48069719 -0.78814708], label: 2, color: b, marker: +
+coordinate: [-0.4043883  -0.52845121  0.71860875], label: 2, color: b, marker: +
+coordinate: [-0.41730696 -1.49718569 -0.13975244], label: 2, color: b, marker: _
+coordinate: [1.39760426 2.58215481 0.57783828], label: 0, color: g, marker: _
+coordinate: [ 2.45402543  1.75656279 -0.79789395], label: 0, color: g, marker: _
+coordinate: [-3.24640160e+00 -9.27424523e-01 -1.17789979e-03], label: 2, color: b, marker: +
+coordinate: [-0.51234872 -0.48366022 -0.42180213], label: 2, color: b, marker: +
+coordinate: [ 4.12620894 -0.72492903 -1.70033553], label: 3, color: y, marker: _
+coordinate: [-2.20632305 -0.60753987 -0.3330142 ], label: 2, color: b, marker: +
+coordinate: [-1.74571772  0.09814953  0.06107662], label: 2, color: b, marker: +
+coordinate: [-1.00799312  0.44092987 -0.69579367], label: 2, color: b, marker: +
+coordinate: [0.89398766 0.7483954  0.87070264], label: 0, color: g, marker: _
+coordinate: [-1.38280373 -0.52363798 -0.31265435], label: 2, color: b, marker: +
+coordinate: [-4.38454491  0.15616727  0.65339304], label: 2, color: b, marker: +
+coordinate: [ 3.24376021 -1.75565408  0.9811661 ], label: 3, color: y, marker: _
+coordinate: [ 3.56407643 -0.38836366 -0.68547308], label: 3, color: y, marker: _
+coordinate: [-2.90474144 -1.19126824 -0.50023915], label: 2, color: b, marker: +
+coordinate: [10.10657788  0.20626166 -0.78717561], label: 1, color: r, marker: _
+coordinate: [ 2.19875002  1.77896043 -0.68358884], label: 0, color: g, marker: _
+coordinate: [-3.09887544 -0.18512502  0.73040221], label: 2, color: b, marker: +
+coordinate: [-2.18378662 -0.73173355 -0.22487817], label: 2, color: b, marker: +
+coordinate: [-1.43369503 -0.73664947  1.50578686], label: 2, color: b, marker: +
+coordinate: [-1.37250604 -0.54002442 -0.2993432 ], label: 2, color: b, marker: +
+coordinate: [-0.52865622  0.88150535 -0.41738196], label: 0, color: g, marker: +
+coordinate: [-2.98708906 -1.12715679 -0.23570095], label: 2, color: b, marker: +
+coordinate: [-2.75014407 -0.54255921  0.03991712], label: 2, color: b, marker: +
+coordinate: [-4.36563532 -0.52342769  0.47380896], label: 2, color: b, marker: +
+coordinate: [-3.24081195 -0.1708144   0.38616773], label: 2, color: b, marker: +
+coordinate: [-1.19434552 -0.97734282  0.17944624], label: 2, color: b, marker: +
+coordinate: [3.26013149 2.80179326 0.69639648], label: 0, color: g, marker: _
+coordinate: [ 0.20344933  1.10940698 -0.59629439], label: 0, color: g, marker: +
+coordinate: [-2.96871889 -1.15026502 -0.19296741], label: 2, color: b, marker: +
+coordinate: [ 0.33909144 -0.65200742 -1.49875611], label: 0, color: g, marker: _
+coordinate: [-0.19315828 -3.0210702   2.58237577], label: 2, color: b, marker: _
+coordinate: [-1.02424349  3.2661167   0.56577918], label: 0, color: g, marker: +
+coordinate: [ 0.90431879 -2.17204338 -0.86157435], label: 0, color: g, marker: +
+coordinate: [0.02776047 1.68832069 0.46100952], label: 0, color: g, marker: _
+coordinate: [16.50279409 -5.95039084  6.95277625], label: 1, color: r, marker: _
+coordinate: [-2.95891963 -0.49825681  1.31322294], label: 2, color: b, marker: +
+coordinate: [ 4.93679883 -1.26522985  0.19444643], label: 3, color: y, marker: _
+coordinate: [ 4.71414988  3.08969065 -0.4310658 ], label: 3, color: y, marker: _
+coordinate: [-0.82752127  0.61547612 -0.71208688], label: 0, color: g, marker: +
+coordinate: [-2.66875097  2.8993744   1.15181231], label: 2, color: b, marker: +
+coordinate: [-1.80780121 -1.18721284 -0.5428955 ], label: 2, color: b, marker: +
+coordinate: [-1.96547515 -0.1946754   0.42080339], label: 2, color: b, marker: +
+coordinate: [-1.58620451  0.70620743  0.17879509], label: 2, color: b, marker: +
+coordinate: [-2.44048298 -0.69550447  0.29424094], label: 2, color: b, marker: +
+coordinate: [-0.38873831  0.59409756 -0.69670361], label: 0, color: g, marker: _
+coordinate: [-3.11395237 -0.4435336   0.27293204], label: 2, color: b, marker: +
+coordinate: [ 8.53575932 -2.43123082  0.03278892], label: 1, color: r, marker: _
+coordinate: [ 2.97344493 -1.67573111 -0.35957232], label: 3, color: y, marker: _
+coordinate: [ 0.5625826   2.13269939 -0.07444241], label: 0, color: g, marker: _
+coordinate: [ 0.58239939  0.89994847 -1.13204705], label: 0, color: g, marker: +
+coordinate: [ 0.97283576  1.60429481 -0.82865501], label: 0, color: g, marker: _
+coordinate: [-2.26166315 -0.34680389 -0.12534166], label: 2, color: b, marker: +
+coordinate: [0.65408383 3.51469927 3.58967562], label: 0, color: g, marker: +
+coordinate: [-1.96969684 -0.69126287 -0.50299777], label: 2, color: b, marker: +
+coordinate: [-2.27003851  0.54247605 -0.26189888], label: 2, color: b, marker: +
+coordinate: [ 0.04556657 -0.42702708 -0.32898603], label: 0, color: g, marker: +
+coordinate: [-2.56081558  0.05490876 -0.04433752], label: 2, color: b, marker: +
+coordinate: [-2.8965591  -0.03432994  0.85159214], label: 2, color: b, marker: +
+coordinate: [ 2.34537185 -0.23603667 -1.01207755], label: 3, color: y, marker: _
+coordinate: [ 4.61639997  0.07476442 -0.60554155], label: 3, color: y, marker: _
+coordinate: [-2.49544688 -0.63236251  0.31613539], label: 2, color: b, marker: +
+coordinate: [ 7.88834421  3.22389995 -0.01877674], label: 1, color: r, marker: _
+coordinate: [ 1.95795154  2.88768341 -0.07383988], label: 0, color: g, marker: _
+coordinate: [-4.11835581 -0.77244314  0.34192742], label: 2, color: b, marker: +
+coordinate: [-0.81723038  0.35269334 -0.32366901], label: 2, color: b, marker: +
+coordinate: [4.50668731 0.47992839 1.24418197], label: 3, color: y, marker: _
+coordinate: [ 3.38456119 -1.32211901  0.54336381], label: 3, color: y, marker: _
+coordinate: [-1.76201739  0.8069666  -0.16463645], label: 2, color: b, marker: +
+coordinate: [-1.42050638 -1.25737392 -1.1187054 ], label: 2, color: b, marker: +
+coordinate: [ 4.75256423 -0.98583234  3.20572585], label: 3, color: y, marker: _
+coordinate: [2.80939513 2.78520555 0.13230996], label: 0, color: g, marker: _
+coordinate: [ 3.43432329  5.1696715  -0.31670514], label: 0, color: g, marker: _
+coordinate: [-3.53474583 -1.14817194  0.41788307], label: 2, color: b, marker: +
+coordinate: [ 7.41401671 -4.33910213  1.17044437], label: 1, color: r, marker: _
+coordinate: [ 4.74213169  0.98474219 -0.84048792], label: 3, color: y, marker: _
+coordinate: [ 1.35267694  1.17693264 -0.01061251], label: 0, color: g, marker: _
+coordinate: [-0.61637844  1.38556072 -0.40903546], label: 0, color: g, marker: +
+coordinate: [-2.02758543  0.14550668 -0.14373633], label: 2, color: b, marker: +
+coordinate: [-2.76033444  0.61543572  0.44853207], label: 2, color: b, marker: +
+coordinate: [ 1.68921119 -1.04540171  0.47513306], label: 0, color: g, marker: _
+coordinate: [2.42291341 1.59991019 0.06965997], label: 0, color: g, marker: _
+coordinate: [10.22882387 -1.10931098  3.01026829], label: 1, color: r, marker: _
+coordinate: [-0.96107039  0.27601641  0.35278225], label: 2, color: b, marker: +
+coordinate: [ 5.87599731 -0.77865675  1.26081463], label: 3, color: y, marker: _
+coordinate: [ 5.15402546 -1.73797052  0.40465868], label: 3, color: y, marker: _
+coordinate: [ 3.21051909 -0.75402545 -0.95995028], label: 3, color: y, marker: _
+coordinate: [ 7.67159082 -0.96759013  0.27627259], label: 1, color: r, marker: _
+coordinate: [-2.39155943 -0.96544457 -0.46883576], label: 2, color: b, marker: +
+coordinate: [ 4.33946474 -1.05900703 -1.23628003], label: 3, color: y, marker: _
+coordinate: [-5.02109301 -0.10289725  1.10541798], label: 2, color: b, marker: +
+coordinate: [-0.05070168 -0.10871283  0.26137668], label: 0, color: g, marker: _
+coordinate: [1.07133502 1.87340045 0.21994379], label: 0, color: g, marker: _
+coordinate: [3.30853062 2.08625544 0.36454637], label: 0, color: g, marker: _
+coordinate: [ 1.90597822 -0.99264605  0.64905907], label: 0, color: g, marker: _
+coordinate: [-2.13554489  0.21180687  0.01774726], label: 2, color: b, marker: +
+coordinate: [ 3.25090245 -0.67731484  0.75267851], label: 3, color: y, marker: _
+coordinate: [-3.44196886 -0.00899348  0.71683514], label: 2, color: b, marker: +
+coordinate: [-2.09157347  0.6034553   0.10218863], label: 2, color: b, marker: +
+coordinate: [-1.63300373 -0.53342649 -0.94700853], label: 2, color: b, marker: +
+coordinate: [-3.72918382  0.50169381  0.30309852], label: 2, color: b, marker: +
+coordinate: [-0.76069724 -0.32915659 -0.85293289], label: 2, color: b, marker: +
+coordinate: [ 1.52154114 -0.21967337  0.43473532], label: 0, color: g, marker: _
+coordinate: [-2.00533515  0.2770885  -0.62033401], label: 2, color: b, marker: +
+coordinate: [-3.40853224 -1.03978072  0.87591829], label: 2, color: b, marker: +
+coordinate: [-1.79939376  1.44745987  1.38753254], label: 2, color: b, marker: +
+coordinate: [ 2.97470435 -1.39772317  0.26521102], label: 3, color: y, marker: _
+coordinate: [-4.07640859 -1.06778117  0.88917475], label: 2, color: b, marker: +
+coordinate: [ 4.26794173  1.8210866  -0.15555416], label: 3, color: y, marker: _
+coordinate: [ 0.0718937   0.67918711 -0.92414249], label: 0, color: g, marker: +
+coordinate: [-1.71626524 -1.11076238 -0.60585148], label: 2, color: b, marker: +
